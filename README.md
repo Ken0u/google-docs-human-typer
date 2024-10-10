@@ -1,1 +1,1 @@
-human-like typer for google docs
+human-like typer userscript for google docs
